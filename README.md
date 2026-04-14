@@ -1,6 +1,6 @@
 # Exploratory Data Analysis Project
 
-*Project Overview*
+*Project Overview* : 
 This project performs Exploratory Data Analysis (EDA) on a cleaned layoffs dataset.
 
 *Objectives*
