@@ -16,6 +16,10 @@ This project performs Exploratory Data Analysis (EDA) on a cleaned layoffs datas
 *Tools Used*
 - MYSQL Workbench
 
+*Dataset*
+The cleaned dataset used for this analysis is included in this repository as:
+- `cleaned_layoffs_data.csv`
+
 *Dataset Source* : 
 This dataset was cleaned in a separate project:  
 --> [https://github.com/ShreyaBaidya/Data-Cleaning-Project]
